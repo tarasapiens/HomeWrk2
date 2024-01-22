@@ -1,4 +1,4 @@
-public class Flat {
+ public class Flat {
     String city;
     String area;
     String house;
